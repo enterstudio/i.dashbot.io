@@ -17,8 +17,8 @@
         {"name": "Operator","handle": "OperatorApp","url": "operator.com","type": "Retail","description":"Shopping assistants","image": "//i.dashbot.io/home/bots/facebook/operator.png"},
         {"name": "Sequel Stories","handle": "storiesonsequel","url": "onsequel.com","type": "Entertainment","description":"Choose your own adventure story","image": "//i.dashbot.io/home/bots/facebook/sequel.png"},
         {"name": "Shop Spring","handle": "SpringNYC","url": "shopspring.com","type": "Retail","description":"Shop for clothing, shoes, and accessories from Shop Spring","image": "//i.dashbot.io/home/bots/facebook/shopspring.png"},
-        {"name": "Sure!","handle": "gosure","url": "www.gosure.io","type": "Local","description":"Restaurant guide in Norway","image": "//i.dashbot.io/home/bots/facebook/sure.png"},
-        {"name": "Sure.","handle": "besure.io","url": "besure.io","type": "Local","description":"Restaurant guide in Copenhagan and San Francisco","image": "//i.dashbot.io/home/bots/facebook/sureexclaim.png"},
+        {"name": "Sure!","handle": "gosure","url": "www.gosure.io","type": "Local","description":"Restaurant guide in Norway","image": "//i.dashbot.io/home/bots/facebook/sureexclaim.png"},
+        {"name": "Sure.","handle": "besure.io","url": "besure.io","type": "Local","description":"Restaurant guide in Copenhagan and San Francisco","image": "//i.dashbot.io/home/bots/facebook/sure.png"},
         {"name": "Tech Crunch","handle": "techcrunch","url": "techcrunch.com","type": "News","description":"Read and search for tech news, get recommended stories","image": "//i.dashbot.io/home/bots/facebook/techcrunch.png"},
         {"name": "The Wall Street Journal","handle": "wsj","url": "wsj.com","type": "Finance","description":"Get stock quotes and read financial news","image": "//i.dashbot.io/home/bots/facebook/wsj.png"},
         {"name": "Uber","handle": "uber","url": "uber.com","type": "Taxi","description":"Order an Uber","image": "//i.dashbot.io/home/bots/facebook/uber.png"}
