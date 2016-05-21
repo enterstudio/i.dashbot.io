@@ -3,8 +3,8 @@
 	"facebook": [
 		{"name": "1-800-Flowers","handle": "1800flowers","url": "1-800-flowers.com","type": "Retail","description":"Order flowers or talk to customer support","image": "//i.dashbot.io/home/bots/facebook/1800flowers.png"},
 		{"name": "911 Bot","handle": "911bot","url": "www.911bot.online","type": "Emergency","description":"911 via messenger","image": "//i.dashbot.io/home/bots/facebook/911bot.png"},
-		{"name": "Any Weather","handle": "AnyWeather","url": "","type": "Weather","description":"Weather","image": "//i.dashbot.io/home/bots/facebook/default.png"},
-		{"name": "AnyCurrency","handle": "AnyCurrency","url": "anybots.top","type": "Travel","description":"Currency exchange rates","image": "//i.dashbot.io/home/bots/facebook/default.png"},
+		{"name": "Any Weather","handle": "anyweatherbot","url": "","type": "Weather","description":"Weather","image": "//i.dashbot.io/home/bots/facebook/anyweather.png"},
+		{"name": "AnyCurrency","handle": "anycurrencybot","url": "www.facebook.com/anycurrencybot/","type": "Travel","description":"Bot helps you to get latest exchange rates and to convert money across currencies.","image": "//i.dashbot.io/home/bots/facebook/anycurrency.png"},
 		{"name": "Bot Hunter Bot","handle": "bothunterbot","url": "bothunterbot.com","type": "Utility","description":"Discover new bots","image": "//i.dashbot.io/home/bots/facebook/bothunter.png"},
 		{"name": "Call of Duty","handle": "CODMessenger","url": "","type": "Games","description":"Chat with Call of Duty and get hints","image": "//i.dashbot.io/home/bots/facebook/cod.png"},
 		{"name": "CartSkill","handle": "cartskill","url": "cartskill.com","type": "Shopping","description":"Shop for handbags","image": "//i.dashbot.io/home/bots/facebook/cartskill.png"},
