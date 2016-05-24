@@ -5,6 +5,7 @@
 		{"name": "911 Bot","handle": "911bot","url": "www.911bot.online","type": "Emergency","description":"911 via messenger","image": "//i.dashbot.io/home/bots/facebook/911bot.png"},
 		{"name": "Any Weather","handle": "anyweatherbot","url": "","type": "Weather","description":"Weather","image": "//i.dashbot.io/home/bots/facebook/anyweather.png"},
 		{"name": "AnyCurrency","handle": "anycurrencybot","url": "www.facebook.com/anycurrencybot/","type": "Travel","description":"Bot helps you to get latest exchange rates and to convert money across currencies.","image": "//i.dashbot.io/home/bots/facebook/anycurrency.png"},
+		{"name": "AppInTheAir","handle": "appintheair","url": "appintheair.mobi","type": "Travel","description":"Check flight status and paths, ask questions about TSA and airports","image": "//i.dashbot.io/home/bots/facebook/appintheair.png"},
 		{"name": "Bot Hunter Bot","handle": "bothunterbot","url": "bothunterbot.com","type": "Utility","description":"Discover new bots","image": "//i.dashbot.io/home/bots/facebook/bothunter.png"},
 		{"name": "Call of Duty","handle": "CODMessenger","url": "","type": "Games","description":"Chat with Call of Duty and get hints","image": "//i.dashbot.io/home/bots/facebook/cod.png"},
 		{"name": "CartSkill","handle": "cartskill","url": "cartskill.com","type": "Shopping","description":"Shop for handbags","image": "//i.dashbot.io/home/bots/facebook/cartskill.png"},
