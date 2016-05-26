@@ -3,7 +3,7 @@
 	"facebook": [
 		{"name": "1-800-Flowers","handle": "1800flowers","url": "1-800-flowers.com","type": "Retail","description":"Order flowers or talk to customer support","image": "//i.dashbot.io/home/bots/facebook/1800flowers.png"},
 		{"name": "911 Bot","handle": "911bot","url": "www.911bot.online","type": "Emergency","description":"911 via messenger","image": "//i.dashbot.io/home/bots/facebook/911bot.png"},
-		{"name": "And Chill","handle": "textandchill","url": "andchill.io","type": "Local","description":"Movie recommendations","image": "//i.dashbot.io/home/bots/facebook/textandchll.png"},
+		{"name": "And Chill","handle": "textandchill","url": "andchill.io","type": "Local","description":"Movie recommendations","image": "//i.dashbot.io/home/bots/facebook/textandchill.png"},
 		{"name": "Any Weather","handle": "anyweatherbot","url": "","type": "Weather","description":"Weather","image": "//i.dashbot.io/home/bots/facebook/anyweather.png"},
 		{"name": "AnyCurrency","handle": "anycurrencybot","url": "www.facebook.com/anycurrencybot/","type": "Travel","description":"Bot helps you to get latest exchange rates and to convert money across currencies.","image": "//i.dashbot.io/home/bots/facebook/anycurrency.png"},
 		{"name": "AppInTheAir","handle": "appintheair","url": "appintheair.mobi","type": "Travel","description":"Check flight status and paths, ask questions about TSA and airports","image": "//i.dashbot.io/home/bots/facebook/appintheair.png"},
