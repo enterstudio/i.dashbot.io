@@ -52,7 +52,7 @@
 		{"name": "Trivia Blast","handle": "triviablast1","url": "","type": "Games","description":"Play trivia","image": "//i.dashbot.io/home/bots/facebook/triviablast.png"},
 		{"name": "Uber","handle": "uber","url": "uber.com","type": "Taxi","description":"Order an Uber","image": "//i.dashbot.io/home/bots/facebook/uber.png"},
 		{"name": "Wally","handle": "wallythebot","url": "wallythebot.com","type": "Finance","description":"Get the most loyalty points from your credit cards anytime, anywhere","image": "//i.dashbot.io/home/bots/facebook/wally.png"},
-		{"name": "Whatson","handle": "whatson","url": "thetinybot.com/whatson","type": "Game","description":"Play quiz games","image": "//i.dashbot.io/home/bots/facebook/whatson.png"},
+		{"name": "Whatson","handle": "whatsonbot","url": "thetinybot.com/whatson","type": "Game","description":"Play quiz games","image": "//i.dashbot.io/home/bots/facebook/whatson.png"},
 		{"name": "WTF Is That","handle": "wtfitbot","url": "www.wtfitbot.com","type": "Utility","description":"Send us a picture of any object and we will tell you what it is.","image": "//i.dashbot.io/home/bots/facebook/wtf.png"},
 		{"name": "Yostik","handle": "hiyostik","url": "","type": "Retail","description":"Video game comparison bot - find the best deals on favorite games","image": "//i.dashbot.io/home/bots/facebook/hiyostik.png"}
 	],
