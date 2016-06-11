@@ -86,7 +86,7 @@
 		{"name": "Travel Buddy","handle": "trbuddy","url": "Travelbuddy.ai","type": "Travel","description":"Search for hotels","image": "//i.dashbot.io/home/bots/facebook/travelbuddy.png"},
 		{"name": "Trivia Blast","handle": "triviablast1","url": "","type": "Games","description":"Play trivia","image": "//i.dashbot.io/home/bots/facebook/triviablast.png"},
 		{"name": "Uber","handle": "uber","url": "uber.com","type": "Taxi","description":"Order an Uber","image": "//i.dashbot.io/home/bots/facebook/uber.png"},
-		{"name": "Voila","handle": "askvoila","url": "askvoila.com","type": "Retail","description":"Shop for watches","image": "//i.dashbot.io/home/bots/facebook/voila.png"},
+		{"name": "Voila","handle": "askvoila","url": "askvoila.com","type": "Retail","description":"Shopping concierge","image": "//i.dashbot.io/home/bots/facebook/voila.png"},
 		{"name": "Wally","handle": "wallythebot","url": "wallythebot.com","type": "Finance","description":"Get the most loyalty points from your credit cards anytime, anywhere","image": "//i.dashbot.io/home/bots/facebook/wally.png"},
 		{"name": "Whatson","handle": "whatsonbot","url": "thetinybot.com/whatson","type": "Game","description":"Play quiz games","image": "//i.dashbot.io/home/bots/facebook/whatson.png"},
 		{"name": "Where","handle": "atwherebot","url": "atwherebot.com","type": "Local","description":"Discover nearby restaurants","image": "//i.dashbot.io/home/bots/facebook/where.png"},
