@@ -31,7 +31,7 @@
 		{"name": "Event Bot","handle": "sciensioeventbot","url": "eventbot.sciens.io","type": "Productivity","description":"An event conceirge - answers attendees questions","image": "//i.dashbot.io/home/bots/facebook/sciensio.png"},
 		{"name": "Expedia","handle": "expedia","url": "expedia.com","type": "Travel","description":"Search and book hotels","image": "//i.dashbot.io/home/bots/facebook/expedia.png"},
 		{"name": "Fify","handle": "gofynd","url": "fify.ai","type": "Retail","description":"Fashion shopping assistant","image": "//i.dashbot.io/home/bots/facebook/fify.png"},
-		{"name": "Finnbot","handle": "finnbotio","url": "finnbot.com/","type": "News","description":"News on Silicon Valley","image": "//i.dashbot.io/home/bots/facebook/finnbot.png"},
+		{"name": "Finnbot","handle": "finnbotio","url": "finnbot.com/","type": "Finance","description":"Stock quotes and news on Wall Street and Silicon Valley","image": "//i.dashbot.io/home/bots/facebook/finnbot.png"},
 		{"name": "Fireflies AI","handle": "firefliesapp","url": "firefliesapp.com","type": "Social","description":"Your social assistant","image": "//i.dashbot.io/home/bots/facebook/fireflies.png"},
 		{"name": "FitCircle","handle": "FitCircle.in","url": "www.fitcircle.in","type": "Fitness","description":"Chat with fitness experts","image": "//i.dashbot.io/home/bots/facebook/fitcircle.png"},
 		{"name": "FML bot","handle": "fmlbot","url": "www.facebook.com/fmlbot","type": "Entertainment","description":"Chat bot tells funny stories","image": "//i.dashbot.io/home/bots/facebook/fml.png"},
