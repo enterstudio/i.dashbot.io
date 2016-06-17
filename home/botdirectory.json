@@ -2,8 +2,10 @@
 	"success" : true,
 	"facebook": [
 		{"name": "1-800-Flowers","handle": "1800flowers","url": "1-800-flowers.com","type": "Retail","description":"Order flowers or talk to customer support","image": "//i.dashbot.io/home/bots/facebook/1800flowers.png"},
+		{"name": "5Gifts4Her","handle": "5Gifts4Her","url": "http://5gifts4her.weebly.com/","type": "Retail","description":"Find gifts for women","image": "//i.dashbot.io/home/bots/facebook/5gifts4her.png"},
 		{"name": "911 Bot","handle": "911-Bot-1052808801455854","url": "www.911bot.online","type": "Emergency","description":"911 via messenger","image": "//i.dashbot.io/home/bots/facebook/911bot.png"},
 		{"name": "ABC News (Australia)","handle": "abcnews.au","url": "www.messenger.com/t/abcnews.au","type": "News","description":"News from ABC Australia","image": "//i.dashbot.io/home/bots/facebook/abcnewsau.png"},
+		{"name": "Alexa Bot","handle": "amazonalexabot","url": "www.facebook.com/amazonalexabot","type": "Utility","description":"Text interface to Amazon Alexa","image": "//i.dashbot.io/home/bots/facebook/alexabot.png"},
 		{"name": "And Chill","handle": "textandchill","url": "andchill.io","type": "Local","description":"Movie recommendations","image": "//i.dashbot.io/home/bots/facebook/textandchill.png"},
 		{"name": "Any Weather","handle": "anyweatherbot","url": "","type": "Weather","description":"Weather","image": "//i.dashbot.io/home/bots/facebook/anyweather.png"},
 		{"name": "AnyCurrency","handle": "anycurrencybot","url": "www.facebook.com/anycurrencybot/","type": "Travel","description":"Bot helps you to get latest exchange rates and to convert money across currencies.","image": "//i.dashbot.io/home/bots/facebook/anycurrency.png"},
@@ -57,6 +59,7 @@
 		{"name": "Joy","handle": "Joy-205232923192657","url": "www.hellojoy.ai","type": "Health","description":"Track and improve mental health","image": "//i.dashbot.io/home/bots/facebook/joy.png"},
 		{"name": "Jugnoo","handle": "jugnoose","url": "www.jugnoo.in","type": "Taxi","description":"Book an auto rickshaw in India","image": "//i.dashbot.io/home/bots/facebook/jugnoo.png"},
 		{"name": "Kitbot","handle": "kitbot","url": "kitbot.me","type": "Social","description":"Keep in touch with your friends","image": "//i.dashbot.io/home/bots/facebook/kitbot.png"},
+		{"name": "Kitty Bot","handle": "kittybotmeow","url": "funnybots.lol","type": "Entertainment","description":"Take a cat quiz","image": "//i.dashbot.io/home/bots/facebook/kittybot.png"},
 		{"name": "KLM","handle": "","url": "messenger.klm.com","type": "Travel","description":"After booking, opt-in to receive confirmation, check-in info, and boarding passes via FB Messenger","image": "//i.dashbot.io/home/bots/facebook/klm.png"},
 		{"name": "Langlearnbot","handle": "Langlearnbot-714126678729629","url": "langlearnbot.com/#fbbot","type": "Translation","description":"Practice language skills and translate text into any language","image": "//i.dashbot.io/home/bots/facebook/langlearn.png"},
 		{"name": "Lone Peak Ranch","handle": "LonePeakRanch","url": "www.facebook.com/LonePeakRanch","type": "Entertainment","description":"A western themed, nteractive conversation story","image": "//i.dashbot.io/home/bots/facebook/lonepeak.png"},
@@ -112,7 +115,7 @@
 		{"name": "Yostik","handle": "hiyostik","url": "","type": "Retail","description":"Video game comparison bot - find the best deals on favorite games","image": "//i.dashbot.io/home/bots/facebook/hiyostik.png"},
 		{"name": "Zootopia","handle": "DisneyZootopia","url": "movies.disney.com/zootopia","type": "Entertainment","description":"Interact with Disney's Zootopia's character, Officer Judy Hopps","image": "//i.dashbot.io/home/bots/facebook/zootopia.png"},
 		{"name": "Zork","handle": "playzork","url": "www.facebook.com/playzork","type": "Entertainment","description":"Play the legendary game Zork","image": "//i.dashbot.io/home/bots/facebook/zork.png"}
-],
+	],
   "slack": [
 		{"name": "Abe","handle": "","url": "www.abe.ai","type": "Finance","description":"Straight forward answers to money management questions","image": "//i.dashbot.io/home/bots/slack/abe.png"},
 		{"name": "Ace","handle": "","url": "appsonchat.com","type": "Productivity","description":"A slack bot to manage your todos, tasks and polls","image": "//i.dashbot.io/home/bots/slack/ace.png"},
@@ -149,6 +152,7 @@
 		{"name": "Humblebot","handle": "humblebot","url": "humblebot.com","type": "Fun","description":"I help make humans better.","image": "//i.dashbot.io/home/bots/slack/humblebot.png"},
 		{"name": "Hyphen","handle": "","url": "www.hyphenapp.io/connect-to-slack","type": "HR","description":"Hyphen is your company's internal Glassdoor. ","image": "//i.dashbot.io/home/bots/slack/hyphen.png"},
 		{"name": "Instawell","handle": "instawell","url": "instawell.com","type": "Health","description":"Get motivation & well-being support from a verified Helper.","image": "//i.dashbot.io/home/bots/slack/instawell.png"},
+		{"name": "Kip","handle": "","url": "kipthis.com","type": "Shopping","description":"AI Assistant for Team Shopping","image": "//i.dashbot.io/home/bots/slack/kip.png"},
 		{"name": "Knelfbot","handle": "","url": "www.knelf.com","type": "HR","description":"Team building","image": "//i.dashbot.io/home/bots/slack/knelfbot.png"},
 		{"name": "LawTrades","handle": "","url": "lawtrades.com","type": "Legal","description":"Legal assistant.","image": "//i.dashbot.io/home/bots/slack/lawtrades.png"},
 		{"name": "Leo (Officevibe Bot)","handle": "leo_officevibe_bot","url": "officevibe.com","type": "Team Building","description":"Measure your team satisfaction in real-time","image": "//i.dashbot.io/home/bots/slack/leo.png"},
