@@ -181,6 +181,7 @@
 		{"name": "safelink.io","handle": "safelink.io","url": "safelink.io","type": "Security","description":"Prevent phishing with the simplicity of a link.","image": "//i.dashbot.io/home/bots/slack/safelink.png"},
 		{"name": "Sensay","handle": "","url": "sensay.it/slack","type": "Advice","description":"Advice from Real People","image": "//i.dashbot.io/home/bots/slack/sensay.png"},
 		{"name": "Shido","handle": "","url": "shidobot.com","type": "Hiring","description":"Get things done in 4 hours or less by a pool of hundreds of curated designers, writers, and data-entry / research gurus","image": "//i.dashbot.io/home/bots/slack/shido.png"},
+		{"name": "SlackWarrior","handle": "","url": "slackwarrior.org","type": "Productivity","description":"Manage your tasks and todo lists","image": "//i.dashbot.io/home/bots/slack/slackwarrior.png"},
 		{"name": "Smooz","handle": "","url": "www.smooz.io","type": "Productivity","description":"Share slack channels between teams","image": "//i.dashbot.io/home/bots/slack/smooz.png"},
 		{"name": "Solid","handle": "","url": "getsolid.io","type": "Calendar","description":"Automate your meetings and focus on the real work","image": "//i.dashbot.io/home/bots/slack/solid.png"},
 		{"name": "Standup Bot","handle": "","url": "standupbot.com","type": "Productivity","description":"Automated standups for slack channels","image": "//i.dashbot.io/home/bots/slack/standup.png"},
